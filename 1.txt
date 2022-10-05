@@ -1,1 +1,2 @@
 git nie jest zły
+zmiana pliku 1.txt w branch branch1
